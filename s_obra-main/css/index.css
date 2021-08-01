@@ -1,0 +1,20 @@
+body{
+    background:url(fondoA.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar {
+    background-color:  #a00101;
+}
+
+.card-body{
+    background-color: #ccd3d8; 
+   }
+
+.form-group#correo::before{
+    content:"\f007";
+}
+.form-group#contraseña::before{
+    content:"\f023";
+}
